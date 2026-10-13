@@ -1,6 +1,6 @@
 # Code Immersives NYC — Coursework Archive
 
-This repository collects the project work, exercises, assessments, and experiments I worked on during my time studying at **Code Immersives in New York City**. It follows my progression from HTML, CSS, and JavaScript fundamentals to interactive browser applications, React, backend development, databases, and deployment exercises.
+This repository collects the project work, exercises, assessments, and experiments I worked on during my time studying at **Code Immersives**. It follows my progression from HTML, CSS, and JavaScript fundamentals to interactive browser applications, React, backend development, databases, and deployment exercises.
 
 ## Reconciliation of the original repositories
 
